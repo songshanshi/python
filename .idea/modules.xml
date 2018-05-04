@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Debugee/.idea/Debugee.iml" filepath="$PROJECT_DIR$/../workspace/Debugee/.idea/Debugee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../classical_00799528704396DD73A4763F83F3AF49/.idea/classical_00799528704396DD73A4763F83F3AF49.iml" filepath="$PROJECT_DIR$/../../classical_00799528704396DD73A4763F83F3AF49/.idea/classical_00799528704396DD73A4763F83F3AF49.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/demo.iml" filepath="$PROJECT_DIR$/.idea/demo.iml" />
+    </modules>
+  </component>
+</project>
